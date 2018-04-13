@@ -8,7 +8,7 @@
 <a href="https://github.com/lensh/blog/issues"><b>所有文章</b></a>
 </p>
 
-各种前端知识，觉得有用的就几下了。
+各种前端知识，觉得有用的就记下来了。
 
 # 目录
 
