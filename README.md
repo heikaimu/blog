@@ -19,3 +19,5 @@
 ## js
 
 - [数组](https://github.com/heikaimu/blog/issues/2)
+- [节流与防抖](https://github.com/heikaimu/blog/issues/3)
+- [对象拷贝](https://github.com/heikaimu/blog/issues/3)
