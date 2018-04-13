@@ -12,6 +12,6 @@
 
 # 目录
 
-## 经常用到的Git命令
+## Git
 
-- [页面布局](https://github.com/lensh/blog/issues/1)
+- [常用到的git命令](https://github.com/lensh/blog/issues/1)
