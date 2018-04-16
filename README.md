@@ -20,4 +20,9 @@
 
 - [数组](https://github.com/heikaimu/blog/issues/2)
 - [节流与防抖](https://github.com/heikaimu/blog/issues/3)
-- [对象拷贝](https://github.com/heikaimu/blog/issues/3)
+- [对象拷贝](https://github.com/heikaimu/blog/issues/4)
+
+## Vue
+
+- [路由守卫](https://github.com/heikaimu/blog/issues/5)
+- [组件间通信](https://github.com/heikaimu/blog/issues/6)
