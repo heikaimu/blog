@@ -24,6 +24,6 @@
 
 ## Vue
 
-- [路由守卫](https://github.com/heikaimu/blog/issues/5)
+- [路由](https://github.com/heikaimu/blog/issues/5)
 - [组件间通信](https://github.com/heikaimu/blog/issues/6)
 - [vuex](https://github.com/heikaimu/blog/issues/7)
