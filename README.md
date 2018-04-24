@@ -27,3 +27,4 @@
 - [路由](https://github.com/heikaimu/blog/issues/5)
 - [组件间通信](https://github.com/heikaimu/blog/issues/6)
 - [vuex](https://github.com/heikaimu/blog/issues/7)
+- [element-ui](https://github.com/heikaimu/blog/issues/8)
