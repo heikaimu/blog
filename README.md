@@ -28,3 +28,9 @@
 - [组件间通信](https://github.com/heikaimu/blog/issues/6)
 - [vuex](https://github.com/heikaimu/blog/issues/7)
 - [element-ui](https://github.com/heikaimu/blog/issues/8)
+- [封装axios](https://github.com/heikaimu/blog/issues/9)
+
+## 七牛云
+
+- [上传图片](https://github.com/heikaimu/blog/issues/10)
+- [quill-editor上传图片到七牛](https://github.com/heikaimu/blog/issues/11)
