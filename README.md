@@ -16,6 +16,10 @@
 
 - [常用到的git命令](https://github.com/heikaimu/blog/issues/1)
 
+## node
+
+- [npm](https://github.com/heikaimu/blog/issues/13)
+
 ## js
 
 - [数组](https://github.com/heikaimu/blog/issues/2)
