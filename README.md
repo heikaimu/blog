@@ -34,6 +34,7 @@
 - [vuex](https://github.com/heikaimu/blog/issues/7)
 - [element-ui](https://github.com/heikaimu/blog/issues/8)
 - [封装axios](https://github.com/heikaimu/blog/issues/9)
+- [封装组件上传npm](https://github.com/heikaimu/blog/issues/14)
 
 ## 七牛云
 
