@@ -19,6 +19,7 @@
 ## node
 
 - [npm](https://github.com/heikaimu/blog/issues/13)
+- [ts编写node.js](https://github.com/heikaimu/blog/issues/15)
 
 ## js
 
