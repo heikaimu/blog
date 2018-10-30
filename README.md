@@ -37,6 +37,7 @@
 - [封装axios](https://github.com/heikaimu/blog/issues/9)
 - [封装组件上传npm](https://github.com/heikaimu/blog/issues/14)
 - [实用的自定义指令](https://github.com/heikaimu/blog/issues/16)
+- [Vscode配置eslint规则自动化格式化代码](https://github.com/heikaimu/blog/issues/17)
 
 ## 七牛云
 
