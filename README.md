@@ -43,6 +43,7 @@
 
 - [上传图片](https://github.com/heikaimu/blog/issues/10)
 - [quill-editor上传图片到七牛](https://github.com/heikaimu/blog/issues/11)
+- [api](https://www.jianshu.com/p/e6f072839282)
 
 
 ## google map api
@@ -51,6 +52,6 @@
 ## React
 - [跨域，网络图片403](https://github.com/heikaimu/blog/issues/18)
 
-## React
+## React Native
 - [实用插件汇总](https://blog.csdn.net/u010241631/article/details/81063414)
 
