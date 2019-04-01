@@ -38,6 +38,7 @@
 - [封装组件上传npm](https://github.com/heikaimu/blog/issues/14)
 - [实用的自定义指令](https://github.com/heikaimu/blog/issues/16)
 - [Vscode配置eslint规则自动化格式化代码](https://github.com/heikaimu/blog/issues/17)
+- [拖拽组件](https://github.com/heikaimu/blog/issues/19)
 
 ## 七牛云
 
@@ -55,4 +56,4 @@
 ## React Native
 - [实用插件汇总](https://blog.csdn.net/u010241631/article/details/81063414)
 
-- [学习之路](https://github.com/heikaimu/blog/issues/19)
+- [学习之路](https://github.com/heikaimu/blog/issues/20)
