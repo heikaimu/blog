@@ -39,7 +39,7 @@
 - [实用的自定义指令](https://github.com/heikaimu/blog/issues/16)
 - [Vscode配置eslint规则自动化格式化代码](https://github.com/heikaimu/blog/issues/17)
 - [拖拽组件](https://github.com/heikaimu/blog/issues/19)
-
+- [单元测试](https://github.com/heikaimu/blog/issues/21)
 ## 七牛云
 
 - [上传图片](https://github.com/heikaimu/blog/issues/10)
