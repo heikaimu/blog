@@ -28,6 +28,7 @@
 - [对象拷贝](https://github.com/heikaimu/blog/issues/4)
 - [ES6](https://github.com/heikaimu/blog/issues/12)
 - [XHR](https://github.com/heikaimu/blog/issues/22)
+- [Referer防盗链](https://github.com/heikaimu/blog/issues/23)
 
 ## Vue
 
