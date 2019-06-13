@@ -26,7 +26,7 @@ module.exports = {
     // 每行的最大属性
     "vue/max-attributes-per-line": [2, {
       // 单行最大属性数
-      "singleline": 10,
+      "singleline": 1,
       // 多行最大属性数
       "multiline": {
         "max": 1,
