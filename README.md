@@ -42,6 +42,7 @@
 - [Vscode配置eslint规则自动化格式化代码](https://github.com/heikaimu/blog/issues/17)
 - [拖拽组件](https://github.com/heikaimu/blog/issues/19)
 - [单元测试](https://github.com/heikaimu/blog/issues/21)
+- [多层嵌套的表单验证方法](https://github.com/heikaimu/blog/issues/22)
 ## 七牛云
 
 - [上传图片](https://github.com/heikaimu/blog/issues/10)
