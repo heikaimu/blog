@@ -33,6 +33,7 @@
 - [ES6](https://github.com/heikaimu/blog/issues/12)
 - [XHR](https://github.com/heikaimu/blog/issues/22)
 - [Referer防盗链](https://github.com/heikaimu/blog/issues/23)
+- [命名规范](https://www.jianshu.com/p/75591d47312a)
 
 ## Vue
 
