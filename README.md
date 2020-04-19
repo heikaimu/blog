@@ -12,6 +12,9 @@
 
 # 目录
 
+## 命名
+- [取名单词，拒绝单一](https://github.com/heikaimu/blog/issues/26)
+
 ## HTML & CSS
 - [收藏的资料](https://github.com/heikaimu/blog/issues/25)
 - [socket.io游戏](https://example-io-game.victorzhou.com/)
