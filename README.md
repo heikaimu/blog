@@ -28,7 +28,7 @@
 - [npm](https://github.com/heikaimu/blog/issues/13)
 - [ts编写node.js](https://github.com/heikaimu/blog/issues/15)
 - [加快Vue项目的开发速度](https://juejin.im/post/5c106485e51d450e657571a6)
-
+- [更新node版本](https://www.jianshu.com/p/71c82fc63522)
 ## js
 
 - [数组](https://github.com/heikaimu/blog/issues/2)
