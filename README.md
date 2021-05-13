@@ -52,6 +52,7 @@
 - [拖拽组件](https://github.com/heikaimu/blog/issues/19)
 - [单元测试](https://github.com/heikaimu/blog/issues/21)
 - [多层嵌套的表单验证方法](https://github.com/heikaimu/blog/issues/24)
+- [vue-cli打包](https://github.com/heikaimu/blog/issues/28)
 ## 七牛云
 
 - [上传图片](https://github.com/heikaimu/blog/issues/10)
