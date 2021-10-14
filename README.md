@@ -53,6 +53,8 @@
 - [单元测试](https://github.com/heikaimu/blog/issues/21)
 - [多层嵌套的表单验证方法](https://github.com/heikaimu/blog/issues/24)
 - [vue-cli打包](https://github.com/heikaimu/blog/issues/28)
+- [vue3 + vite -> npmjs](https://github.com/heikaimu/blog/issues/29)
+
 ## 七牛云
 
 - [上传图片](https://github.com/heikaimu/blog/issues/10)
