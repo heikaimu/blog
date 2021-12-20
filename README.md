@@ -23,6 +23,9 @@
 
 - [常用到的git命令](https://github.com/heikaimu/blog/issues/1)
 
+## Fabric
+- [控制器失效问题](https://github.com/heikaimu/blog/issues/30)
+
 ## node
 
 - [npm](https://github.com/heikaimu/blog/issues/13)
